@@ -1,5 +1,1 @@
-"# Tugas-2_prak.TCC_IF-D" 
-"# Tugas-2_prak.TCC_IF-D" 
-"# Tugas-2_prak.TCC_IF-D" 
-"# Tugas-2_prak.TCC_IF-D" 
-"# Tugas-2_prak.TCC_IF-D" 
+"# Tugas-2_prak.TCC_IF-D"
